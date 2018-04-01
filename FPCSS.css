@@ -7,7 +7,7 @@ html::before{
 video{
     white-space: initial;
 }
-.dropdown.is-bottom-left .dropdown-menu { width: 700px }
+.dropdown.is-bottom-left .dropdown-menu { width: 1200px }
 .alert-component .dropdown-item .alert-dropdown, .alert-component .dropdown .dropdown-menu .has-link a .alert-dropdown, .dropdown .dropdown-menu .has-link .alert-component a .alert-dropdown {
-    width: 681px
+    width: 1181px
 }
