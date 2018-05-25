@@ -12,3 +12,7 @@ video{
 .alert-component .dropdown-item .alert-dropdown, .alert-component .dropdown .dropdown-menu .has-link a .alert-dropdown, .dropdown .dropdown-menu .has-link .alert-component a .alert-dropdown {
     width: 1181px
 }
+.drawer-container>.drawer>.drawer-section>.drawer-content .thread>.threadtitle[href^="/f/oify/"],
+.drawer-container>.drawer>.drawer-section>.drawer-content .thread>.threadtitle[href^="/f/oify/"] + div {
+    display: none;
+}
