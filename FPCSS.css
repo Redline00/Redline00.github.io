@@ -17,9 +17,8 @@ video{
     display: none;
 }
 div#toolbar {
-    position: absolute !important;
+    position: absolute;
 }
-
 #header:before {
     display: none;
 }
