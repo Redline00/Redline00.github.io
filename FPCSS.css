@@ -16,9 +16,3 @@ video{
 #drawerleft>.drawer-section>.drawer-content .thread>.threadtitle[href^="/f/oify/"] + div {
     display: none;
 }
-div#toolbar {
-    position: absolute;
-}
-#header:before {
-    display: none;
-}
