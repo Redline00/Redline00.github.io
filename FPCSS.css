@@ -16,3 +16,9 @@ video{
 #drawerleft>.drawer-section>.drawer-content .thread>.threadtitle[href^="/f/oify/"] + div {
     display: none;
 }
+#header {
+  position: initial!important;
+}
+#header:before{
+  display: none;
+}
