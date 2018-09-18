@@ -2,7 +2,7 @@ html::before{
     background-image: url('https://files.facepunch.com/forum/upload/110541/87209e7f-1684-47d8-93df-f5878fcde28f/77QYFmw.png'); 
     background-size: auto;
 }
-.ql-container.ql-snow .ql-editor p {color: #0a0a0a; }
+;.ql-container.ql-snow .ql-editor p {color: #0a0a0a; }
 .expandable.expandable-overflown{-webkit-mask-image:none !important;max-height:none !important;}
 .expandable{max-height:none !important;}
 video{
